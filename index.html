@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemmo National Dex</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #cc0000;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap; /* Allow items to wrap on small screens */
+            justify-content: center; /* Center items */
+        }
+        nav ul li {
+            cursor: pointer;
+            padding: 0.5rem;
+            flex: 1 1 auto; /* Allow items to grow/shrink */
+            text-align: center;
+        }
+        main {
+            display: flex;
+            flex-direction: column;
+            padding: 1rem;
+        }
+        #content {
+            flex-grow: 1;
+            padding: 1rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center horizontally */
+        }
+        #search-bar {
+            margin-bottom: 1rem;
+            width: 100%;
+            max-width: 500px; /* Limit maximum width */
+            padding: 0.5rem;
+            font-size: 16px;
+        }
+        #pokemon-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 1rem;
+            width: 100%;
+            max-width: 1000px; /* Limit maximum width */
+        }
+        .pokemon-card {
+            background-color: white;
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .pokemon-card img {
+            max-width: 100px;
+            height: 100px;
+            object-fit: contain;
+        }
+        .region-button {
+            cursor: pointer;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 600px) {
+            nav ul {
+                flex-direction: column; /* Stack nav items vertically on small screens */
+                align-items: center;
+            }
+            nav ul li {
+                padding: 0.5rem 0;
+                text-align: center;
+            }
+            #search-bar {
+                max-width: 100%; /* Full width on small screens */
+                padding: 0.5rem;
+                font-size: 14px;
+            }
+            #pokemon-list {
+                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* Smaller cards on small screens */
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pokemmo National Dex</h1>
+    </header>
+    <nav>
+        <ul>
+            <li class="region-button" data-region="national">National</li>
+            <li class="region-button" data-region="kanto">Kanto</li>
+            <li class="region-button" data-region="johto">Johto</li>
+            <li class="region-button" data-region="hoenn">Hoenn</li>
+            <li class="region-button" data-region="sinnoh">Sinnoh</li>
+            <li class="region-button" data-region="unova">Unova</li>
+        </ul>
+    </nav>
+    <main>
+        <section id="content">
+            <input type="text" id="search-bar" placeholder="Search by number or name...">
+            <div id="pokemon-list"></div>
+        </section>
+    </main>
+    <script>
+        let currentRegion = 'national';
+        let pokemonData = {};
+
+        async function fetchPokemonData(region) {
+            try {
+                const response = await fetch(`${region}_pokemon.json`);
+                pokemonData[region] = await response.json();
+                displayPokemon(pokemonData[region]);
+            } catch (error) {
+                console.error('Error fetching Pokemon data:', error);
+                document.getElementById('pokemon-list').innerHTML = `<p>Error loading Pokémon data for ${region} region.</p>`;
+            }
+        }
+
+        function displayPokemon(pokemon) {
+            const pokemonList = document.getElementById('pokemon-list');
+            pokemonList.innerHTML = '';
+            pokemon.forEach(p => {
+                const card = document.createElement('div');
+                card.className = 'pokemon-card';
+                card.innerHTML = `
+                    <img src="${p.image}" 
+                         alt="${p.name}" 
+                         onerror="this.onerror=null; this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%23ddd%22/><text x=%2250%%22 y=%2250%%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2214%22 fill=%22%23555%22>No Image</text></svg>';">
+                    <h3>${p.name}</h3>
+                    <p>Number: ${p.dexNumber}</p>
+                    <p>Region: ${p.location}</p>
+                `;
+                pokemonList.appendChild(card);
+            });
+        }
+
+        function changeRegion(region) {
+            currentRegion = region;
+            if (pokemonData[region]) {
+                displayPokemon(pokemonData[region]);
+            } else {
+                fetchPokemonData(region);
+            }
+        }
+
+        document.getElementById('search-bar').addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredPokemon = pokemonData[currentRegion].filter(p => 
+                p.dexNumber.toString().includes(searchTerm) || p.name.toLowerCase().includes(searchTerm)
+            );
+            displayPokemon(filteredPokemon);
+        });
+
+        document.querySelectorAll('.region-button').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const region = e.target.getAttribute('data-region');
+                changeRegion(region);
+            });
+        });
+
+        fetchPokemonData('national');
+    </script>
+    <footer style="text-align: center; padding: 10px; background-color: #f1f1f1; border-top: 1px solid #ddd;">
+        <p>Thank you for visiting! This site is a work in progress.</p>
+        
+        <p>Contact me at venomqqq in pokemmo </a></p>
+    </footer>
+    
+</body>
+</html>
