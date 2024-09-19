@@ -1,0 +1,1805 @@
+[
+    {
+      "dexNumber": 1,
+      "name": "snivy",
+      "image": "images/snivy.png",
+      "location": ""
+    },
+    {
+      "dexNumber": 2,
+      "name": "servine",
+      "image": "images/servine.png",
+      "location": ""
+    },
+    {
+      "dexNumber": 3,
+      "name": "serperior",
+      "image": "images/serperior.png",
+      "location": ""
+    },
+    {
+        "dexNumber": 4,
+        "name": "tepig",
+        "image": "images/tepig.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 5,
+        "name": "pignite",
+        "image": "images/pignite.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 6,
+        "name": "emboar",
+        "image": "images/emboar.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 7,
+        "name": "oshawott",
+        "image": "images/oshawott.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 8,
+        "name": "dewott",
+        "image": "images/dewott.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 9,
+        "name": "samurott",
+        "image": "images/samurott.png",
+        "location": ""
+      },{
+        "dexNumber": 10,
+        "name": "patrat",
+        "image": "images/patrat.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 11,
+        "name": "watchog",
+        "image": "images/watchog.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 12,
+        "name": "lillipup",
+        "image": "images/lillipup.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 13,
+        "name": "herdier",
+        "image": "images/herdier.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 14,
+        "name": "stoutland",
+        "image": "images/stoutland.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 15,
+        "name": "purrloin",
+        "image": "images/purrloin.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 16,
+        "name": "liepard",
+        "image": "images/liepard.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 17,
+        "name": "pansage",
+        "image": "images/pansage.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 18,
+        "name": "simisage",
+        "image": "images/simisage.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 19,
+        "name": "pansear",
+        "image": "images/pansear.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 20,
+        "name": "simisear",
+        "image": "images/simisear.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 21,
+        "name": "panpour",
+        "image": "images/panpour.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 22,
+        "name": "simipour",
+        "image": "images/simipour.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 23,
+        "name": "munna",
+        "image": "images/munna.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 24,
+        "name": "musharna",
+        "image": "images/musharna.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 25,
+        "name": "pidove",
+        "image": "images/pidove.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 26,
+        "name": "tranquill",
+        "image": "images/tranquill.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 27,
+        "name": "unfezant",
+        "image": "images/unfezant.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 28,
+        "name": "blitzle",
+        "image": "images/blitzle.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 29,
+        "name": "zebstrika",
+        "image": "images/zebstrika.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 30,
+        "name": "roggenrola",
+        "image": "images/roggenrola.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 31,
+        "name": "boldore",
+        "image": "images/boldore.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 32,
+        "name": "gigalith",
+        "image": "images/gigalith.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 33,
+        "name": "woobat",
+        "image": "images/woobat.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 34,
+        "name": "swoobat",
+        "image": "images/swoobat.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 35,
+        "name": "drilbur",
+        "image": "images/drilbur.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 36,
+        "name": "excadrill",
+        "image": "images/excadrill.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 37,
+        "name": "audino",
+        "image": "images/audino.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 38,
+        "name": "timburr",
+        "image": "images/timburr.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 39,
+        "name": "gurdurr",
+        "image": "images/gurdurr.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 40,
+        "name": "conkeldurr",
+        "image": "images/conkeldurr.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 41,
+        "name": "tympole",
+        "image": "images/tympole.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 42,
+        "name": "palpitoad",
+        "image": "images/palpitoad.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 43,
+        "name": "seismitoad",
+        "image": "images/seismitoad.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 44,
+        "name": "throh",
+        "image": "images/throh.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 45,
+        "name": "sawk",
+        "image": "images/sawk.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 46,
+        "name": "sewaddle",
+        "image": "images/sewaddle.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 47,
+        "name": "swadloon",
+        "image": "images/swadloon.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 48,
+        "name": "leavanny",
+        "image": "images/leavanny.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 49,
+        "name": "venipede",
+        "image": "images/venipede.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 50,
+        "name": "whirlipede",
+        "image": "images/whirlipede.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 51,
+        "name": "scolipede",
+        "image": "images/scolipede.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 52,
+        "name": "cottonee",
+        "image": "images/cottonee.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 53,
+        "name": "whimsicott",
+        "image": "images/whimsicott.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 54,
+        "name": "petilil",
+        "image": "images/petilil.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 55,
+        "name": "lilligant",
+        "image": "images/lilligant.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 56,
+        "name": "basculin",
+        "image": "images/basculin-red-striped.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 57,
+        "name": "sandile",
+        "image": "images/sandile.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 58,
+        "name": "krokorok",
+        "image": "images/krokorok.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 59,
+        "name": "krookodile",
+        "image": "images/krookodile.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 60,
+        "name": "darumaka",
+        "image": "images/darumaka.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 61,
+        "name": "darmanitan",
+        "image": "images/darmanitan-standard.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 62,
+        "name": "maractus",
+        "image": "images/maractus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 63,
+        "name": "dwebble",
+        "image": "images/dwebble.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 64,
+        "name": "crustle",
+        "image": "images/crustle.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 65,
+        "name": "scraggy",
+        "image": "images/scraggy.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 66,
+        "name": "scrafty",
+        "image": "images/scrafty.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 67,
+        "name": "sigilyph",
+        "image": "images/sigilyph.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 68,
+        "name": "yamask",
+        "image": "images/yamask.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 69,
+        "name": "cofagrigus",
+        "image": "images/cofagrigus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 70,
+        "name": "tirtouga",
+        "image": "images/tirtouga.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 71,
+        "name": "carracosta",
+        "image": "images/carracosta.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 72,
+        "name": "archen",
+        "image": "images/archen.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 73,
+        "name": "archeops",
+        "image": "images/archeops.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 74,
+        "name": "trubbish",
+        "image": "images/trubbish.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 75,
+        "name": "garbodor",
+        "image": "images/garbodor.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 76,
+        "name": "zorua",
+        "image": "images/zorua.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 77,
+        "name": "zoroark",
+        "image": "images/zoroark.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 78,
+        "name": "minccino",
+        "image": "images/minccino.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 79,
+        "name": "cinccino",
+        "image": "images/cinccino.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 80,
+        "name": "gothita",
+        "image": "images/gothita.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 81,
+        "name": "gothorita",
+        "image": "images/gothorita.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 82,
+        "name": "gothitelle",
+        "image": "images/gothitelle.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 83,
+        "name": "solosis",
+        "image": "images/solosis.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 84,
+        "name": "duosion",
+        "image": "images/duosion.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 85,
+        "name": "reuniclus",
+        "image": "images/reuniclus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 86,
+        "name": "ducklett",
+        "image": "images/ducklett.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 87,
+        "name": "swanna",
+        "image": "images/swanna.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 88,
+        "name": "vanillite",
+        "image": "images/vanillite.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 89,
+        "name": "vanillish",
+        "image": "images/vanillish.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 90,
+        "name": "vanilluxe",
+        "image": "images/vanilluxe.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 91,
+        "name": "deerling",
+        "image": "images/deerling-spring.png",
+        "location": "spring"
+      },
+      {
+        "dexNumber": 92,
+        "name": "sawsbuck",
+        "image": "images/sawsbuck-spring.png",
+        "location": "spring"
+      },
+      {
+        "dexNumber": 93,
+        "name": "emolga",
+        "image": "images/emolga.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 94,
+        "name": "karrablast",
+        "image": "images/karrablast.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 95,
+        "name": "escavalier",
+        "image": "images/escavalier.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 96,
+        "name": "foongus",
+        "image": "images/foongus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 97,
+        "name": "amoonguss",
+        "image": "images/amoonguss.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 98,
+        "name": "frillish",
+        "image": "images/frillish.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 99,
+        "name": "jellicent",
+        "image": "images/jellicent.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 100,
+        "name": "alomomola",
+        "image": "images/alomomola.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 101,
+        "name": "joltik",
+        "image": "images/joltik.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 102,
+        "name": "galvantula",
+        "image": "images/galvantula.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 103,
+        "name": "ferroseed",
+        "image": "images/ferroseed.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 104,
+        "name": "ferrothorn",
+        "image": "images/ferrothorn.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 105,
+        "name": "klink",
+        "image": "images/klink.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 106,
+        "name": "klang",
+        "image": "images/klang.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 107,
+        "name": "klinklang",
+        "image": "images/klinklang.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 108,
+        "name": "tynamo",
+        "image": "images/tynamo.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 109,
+        "name": "eelektrik",
+        "image": "images/eelektrik.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 110,
+        "name": "eelektross",
+        "image": "images/eelektross.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 111,
+        "name": "elgyem",
+        "image": "images/elgyem.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 112,
+        "name": "beheeyem",
+        "image": "images/beheeyem.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 113,
+        "name": "litwick",
+        "image": "images/litwick.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 114,
+        "name": "lampent",
+        "image": "images/lampent.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 115,
+        "name": "chandelure",
+        "image": "images/chandelure.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 116,
+        "name": "axew",
+        "image": "images/axew.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 117,
+        "name": "fraxure",
+        "image": "images/fraxure.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 118,
+        "name": "haxorus",
+        "image": "images/haxorus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 119,
+        "name": "cubchoo",
+        "image": "images/cubchoo.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 120,
+        "name": "beartic",
+        "image": "images/beartic.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 121,
+        "name": "cryogonal",
+        "image": "images/cryogonal.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 122,
+        "name": "shelmet",
+        "image": "images/shelmet.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 123,
+        "name": "accelgor",
+        "image": "images/accelgor.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 124,
+        "name": "stunfisk",
+        "image": "images/stunfisk.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 125,
+        "name": "mienfoo",
+        "image": "images/mienfoo.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 126,
+        "name": "mienshao",
+        "image": "images/mienshao.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 127,
+        "name": "druddigon",
+        "image": "images/druddigon.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 128,
+        "name": "golett",
+        "image": "images/golett.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 129,
+        "name": "golurk",
+        "image": "images/golurk.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 130,
+        "name": "pawniard",
+        "image": "images/pawniard.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 131,
+        "name": "bisharp",
+        "image": "images/bisharp.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 132,
+        "name": "bouffalant",
+        "image": "images/bouffalant.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 133,
+        "name": "rufflet",
+        "image": "images/rufflet.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 134,
+        "name": "braviary",
+        "image": "images/braviary.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 135,
+        "name": "vullaby",
+        "image": "images/vullaby.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 136,
+        "name": "mandibuzz",
+        "image": "images/mandibuzz.png",
+        "location": ""
+      },
+      {
+  "dexNumber": 135,
+  "name": "vullaby",
+  "image": "images/vullaby.png",
+  "location": ""
+},
+{
+  "dexNumber": 136,
+  "name": "mandibuzz",
+  "image": "images/mandibuzz.png",
+  "location": ""
+},
+{
+  "dexNumber": 137,
+  "name": "heatmor",
+  "image": "images/heatmor.png",
+  "location": ""
+},
+{
+  "dexNumber": 138,
+  "name": "durant",
+  "image": "images/durant.png",
+  "location": ""
+},
+{
+  "dexNumber": 139,
+  "name": "deino",
+  "image": "images/deino.png",
+  "location": ""
+},
+{
+  "dexNumber": 140,
+  "name": "zweilous",
+  "image": "images/zweilous.png",
+  "location": ""
+},
+{
+  "dexNumber": 141,
+  "name": "hydreigon",
+  "image": "images/hydreigon.png",
+  "location": ""
+},
+{
+  "dexNumber": 142,
+  "name": "larvesta",
+  "image": "images/larvesta.png",
+  "location": ""
+},
+{
+  "dexNumber": 143,
+  "name": "volcarona",
+  "image": "images/volcarona.png",
+  "location": ""
+},
+{
+  "dexNumber": 144,
+  "name": "rattata",
+  "image": "images/rattata.png",
+  "location": ""
+},
+{
+  "dexNumber": 145,
+  "name": "raticate",
+  "image": "images/raticate.png",
+  "location": ""
+},
+{
+  "dexNumber": 146,
+  "name": "venonat",
+  "image": "images/venonat.png",
+  "location": ""
+},
+{
+  "dexNumber": 147,
+  "name": "venomoth",
+  "image": "images/venomoth.png",
+  "location": ""
+},
+{
+  "dexNumber": 148,
+  "name": "ledyba",
+  "image": "images/ledyba.png",
+  "location": ""
+},
+{
+  "dexNumber": 149,
+  "name": "ledian",
+  "image": "images/ledian.png",
+  "location": ""
+},
+{
+  "dexNumber": 150,
+  "name": "spinarak",
+  "image": "images/spinarak.png",
+  "location": ""
+},
+{
+  "dexNumber": 151,
+  "name": "ariados",
+  "image": "images/ariados.png",
+  "location": ""
+},
+{
+  "dexNumber": 152,
+  "name": "kricketot",
+  "image": "images/kricketot.png",
+  "location": ""
+},
+{
+  "dexNumber": 153,
+  "name": "kricketune",
+  "image": "images/kricketune.png",
+  "location": ""
+},
+{
+  "dexNumber": 154,
+  "name": "goldeen",
+  "image": "images/goldeen.png",
+  "location": ""
+},
+{
+  "dexNumber": 155,
+  "name": "seaking",
+  "image": "images/seaking.png",
+  "location": ""
+},
+{
+  "dexNumber": 156,
+  "name": "krabby",
+  "image": "images/krabby.png",
+  "location": ""
+},
+{
+  "dexNumber": 157,
+  "name": "kingler",
+  "image": "images/kingler.png",
+  "location": ""
+},
+{
+  "dexNumber": 158,
+  "name": "clamperl",
+  "image": "images/clamperl.png",
+  "location": ""
+},
+{
+  "dexNumber": 159,
+  "name": "huntail",
+  "image": "images/huntail.png",
+  "location": ""
+},
+{
+  "dexNumber": 160,
+  "name": "gorebyss",
+  "image": "images/gorebyss.png",
+  "location": ""
+},
+{
+  "dexNumber": 161,
+  "name": "luvdisc",
+  "image": "images/luvdisc.png",
+  "location": ""
+},
+{
+  "dexNumber": 162,
+  "name": "relicanth",
+  "image": "images/relicanth.png",
+  "location": ""
+},
+{
+  "dexNumber": 163,
+  "name": "sandshrew",
+  "image": "images/sandshrew.png",
+  "location": ""
+},
+{
+  "dexNumber": 164,
+  "name": "sandslash",
+  "image": "images/sandslash.png",
+  "location": ""
+},
+{
+  "dexNumber": 165,
+  "name": "onix",
+  "image": "images/onix.png",
+  "location": ""
+},
+{
+  "dexNumber": 166,
+  "name": "steelix",
+  "image": "images/steelix.png",
+  "location": ""
+},
+{
+  "dexNumber": 167,
+  "name": "baltoy",
+  "image": "images/baltoy.png",
+  "location": ""
+},
+{
+  "dexNumber": 168,
+  "name": "claydol",
+  "image": "images/claydol.png",
+  "location": ""
+},
+{
+  "dexNumber": 169,
+  "name": "poliwag",
+  "image": "images/poliwag.png",
+  "location": ""
+},
+{
+  "dexNumber": 170,
+  "name": "poliwhirl",
+  "image": "images/poliwhirl.png",
+  "location": ""
+},
+{
+  "dexNumber": 171,
+  "name": "poliwrath",
+  "image": "images/poliwrath.png",
+  "location": ""
+},
+{
+  "dexNumber": 172,
+  "name": "politoed",
+  "image": "images/politoed.png",
+  "location": ""
+},
+{
+  "dexNumber": 173,
+  "name": "finneon",
+  "image": "images/finneon.png",
+  "location": ""
+},
+{
+  "dexNumber": 174,
+  "name": "lumineon",
+  "image": "images/lumineon.png",
+  "location": ""
+},
+{
+  "dexNumber": 175,
+  "name": "horsea",
+  "image": "images/horsea.png",
+  "location": ""
+},
+{
+  "dexNumber": 176,
+  "name": "seadra",
+  "image": "images/seadra.png",
+  "location": ""
+},
+{
+  "dexNumber": 177,
+  "name": "kingdra",
+  "image": "images/kingdra.png",
+  "location": ""
+},
+{
+  "dexNumber": 178,
+  "name": "Qwilfish",
+  "image": "images/qwilfish.png",
+  "location": ""
+},
+{
+  "dexNumber": 179,
+  "name": "chinchou",
+  "image": "images/chinchou.png",
+  "location": ""
+},
+{
+  "dexNumber": 180,
+  "name": "lanturn",
+  "image": "images/lanturn.png",
+  "location": ""
+},
+
+{
+  "dexNumber": 181,
+  "name": "barboach",
+  "image": "images/barboach.png",
+  "location": ""
+},
+{
+  "dexNumber": 182,
+  "name": "whiscash",
+  "image": "images/whiscash.png",
+  "location": ""
+},
+{
+  "dexNumber": 183,
+  "name": "dratini",
+  "image": "images/dratini.png",
+  "location": ""
+},
+{
+  "dexNumber": 184,
+  "name": "dragonair",
+  "image": "images/dragonair.png",
+  "location": ""
+},
+{
+  "dexNumber": 185,
+  "name": "dragonite",
+  "image": "images/dragonite.png",
+  "location": ""
+},
+{
+  "dexNumber": 186,
+  "name": "geodude",
+  "image": "images/geodude.png",
+  "location": ""
+},
+{
+  "dexNumber": 187,
+  "name": "graveler",
+  "image": "images/graveler.png",
+  "location": ""
+},
+{
+  "dexNumber": 188,
+  "name": "golem",
+  "image": "images/golem.png",
+  "location": ""
+},
+{
+  "dexNumber": 189,
+  "name": "lickitung",
+  "image": "images/lickitung.png",
+  "location": ""
+},
+{
+  "dexNumber": 190,
+  "name": "lickilicky",
+  "image": "images/lickilicky.png",
+  "location": ""
+},
+{
+  "dexNumber": 191,
+  "name": "sableye",
+  "image": "images/sableye.png",
+  "location": ""
+},
+{
+  "dexNumber": 192,
+  "name": "mawile",
+  "image": "images/mawile.png",
+  "location": ""
+},
+{
+  "dexNumber": 193,
+  "name": "riolu",
+  "image": "images/riolu.png",
+  "location": ""
+},
+{
+  "dexNumber": 194,
+  "name": "lucario",
+  "image": "images/lucario.png",
+  "location": ""
+},
+{
+  "dexNumber": 195,
+  "name": "psyduck",
+  "image": "images/psyduck.png",
+  "location": ""
+},
+{
+  "dexNumber": 196,
+  "name": "Golduck",
+  "image": "images/golduck.png",
+  "location": ""
+},
+{
+  "dexNumber": 197,
+  "name": "bidoof",
+  "image": "images/bidoof.png",
+  "location": ""
+},
+{
+  "dexNumber": 198,
+  "name": "bibarel",
+  "image": "images/bibarel.png",
+  "location": ""
+},
+{
+  "dexNumber": 199,
+  "name": "zangoose",
+  "image": "images/zangoose.png",
+  "location": ""
+},
+{
+  "dexNumber": 200,
+  "name": "seviper",
+  "image": "images/seviper.png",
+  "location": ""
+},
+{
+  "dexNumber": 201,
+  "name": "lapras",
+  "image": "images/lapras.png",
+  "location": ""
+},
+{
+  "dexNumber": 202,
+  "name": "carvanha",
+  "image": "images/carvanha.png",
+  "location": ""
+},
+{
+  "dexNumber": 203,
+  "name": "sharpedo",
+  "image": "images/sharpedo.png",
+  "location": ""
+},
+{
+  "dexNumber": 204,
+  "name": "gligar",
+  "image": "images/gligar.png",
+  "location": ""
+},
+{
+  "dexNumber": 205,
+  "name": "gliscor",
+  "image": "images/gliscor.png",
+  "location": ""
+},
+{
+  "dexNumber": 204,
+  "name": "gligar",
+  "image": "images/gligar.png",
+  "location": ""
+},
+{
+  "dexNumber": 205,
+  "name": "gliscor",
+  "image": "images/gliscor.png",
+  "location": ""
+},
+{
+  "dexNumber": 206,
+  "name": "buizel",
+  "image": "images/buizel.png",
+  "location": ""
+},
+{
+  "dexNumber": 207,
+  "name": "floatzel",
+  "image": "images/floatzel.png",
+  "location": ""
+},
+{
+  "dexNumber": 208,
+  "name": "caterpie",
+  "image": "images/caterpie.png",
+  "location": ""
+},
+{
+  "dexNumber": 209,
+  "name": "metapod",
+  "image": "images/metapod.png",
+  "location": ""
+},
+{
+  "dexNumber": 210,
+  "name": "butterfree",
+  "image": "images/butterfree.png",
+  "location": ""
+},
+{
+  "dexNumber": 211,
+  "name": "weedle",
+  "image": "images/weedle.png",
+  "location": ""
+},
+{
+  "dexNumber": 212,
+  "name": "kakuna",
+  "image": "images/kakuna.png",
+  "location": ""
+},
+{
+  "dexNumber": 213,
+  "name": "beedrill",
+  "image": "images/beedrill.png",
+  "location": ""
+},
+{
+  "dexNumber": 214,
+  "name": "pinsir",
+  "image": "images/pinsir.png",
+  "location": ""
+},
+{
+  "dexNumber": 215,
+  "name": "heracross",
+  "image": "images/heracross.png",
+  "location": ""
+},
+{
+  "dexNumber": 216,
+  "name": "ponyta",
+  "image": "images/ponyta.png",
+  "location": ""
+},
+{
+  "dexNumber": 217,
+  "name": "rapidash",
+  "image": "images/rapidash.png",
+  "location": ""
+},
+{
+  "dexNumber": 218,
+  "name": "sunkern",
+  "image": "images/sunkern.png",
+  "location": ""
+},
+{
+  "dexNumber": 219,
+  "name": "sunflora",
+  "image": "images/sunflora.png",
+  "location": ""
+},
+{
+  "dexNumber": 220,
+  "name": "dunsparce",
+  "image": "images/dunsparce.png",
+  "location": ""
+},
+{
+  "dexNumber": 221,
+  "name": "combee",
+  "image": "images/combee.png",
+  "location": ""
+},
+{
+  "dexNumber": 222,
+  "name": "vespiquen",
+  "image": "images/vespiquen.png",
+  "location": ""
+},
+{
+  "dexNumber": 223,
+  "name": "zubat",
+  "image": "images/zubat.png",
+  "location": ""
+},
+{
+  "dexNumber": 224,
+  "name": "golbat",
+  "image": "images/golbat.png",
+  "location": ""
+},
+{
+  "dexNumber": 225,
+  "name": "crobat",
+  "image": "images/crobat.png",
+  "location": ""
+},
+{
+  "dexNumber": 226,
+  "name": "tangela",
+  "image": "images/tangela.png",
+  "location": ""
+},
+{
+  "dexNumber": 227,
+  "name": "tangrowth",
+  "image": "images/tangrowth.png",
+  "location": ""
+},
+{
+  "dexNumber": 228,
+  "name": "taillow",
+  "image": "images/taillow.png",
+  "location": ""
+},
+{
+  "dexNumber": 229,
+  "name": "swellow",
+  "image": "images/swellow.png",
+  "location": ""
+},
+{
+  "dexNumber": 230,
+  "name": "lunatone",
+  "image": "images/lunatone.png",
+  "location": ""
+},
+{
+  "dexNumber": 231,
+  "name": "solrock",
+  "image": "images/solrock.png",
+  "location": ""
+},
+{
+  "dexNumber": 232,
+  "name": "absol",
+  "image": "images/absol.png",
+  "location": ""
+},
+{
+  "dexNumber": 233,
+  "name": "drifloon",
+  "image": "images/drifloon.png",
+  "location": ""
+},
+{
+  "dexNumber": 234,
+  "name": "drifblim",
+  "image": "images/drifblim.png",
+  "location": ""
+},
+{
+  "dexNumber": 235,
+  "name": "staryu",
+  "image": "images/staryu.png",
+  "location": ""
+},
+{
+  "dexNumber": 236,
+  "name": "starmie",
+  "image": "images/starmie.png",
+  "location": ""
+},
+{
+  "dexNumber": 237,
+  "name": "wingull",
+  "image": "images/wingull.png",
+  "location": ""
+},
+{
+  "dexNumber": 238,
+  "name": "pelipper",
+  "image": "images/pelipper.png",
+  "location": ""
+}
+,
+{
+  "dexNumber": 239,
+  "name": "corsola",
+  "image": "images/corsola.png",
+  "location": ""
+}
+,
+{
+  "dexNumber": 240,
+  "name": "shellder",
+  "image": "images/shellder.png",
+  "location": ""
+},
+{
+  "dexNumber": 241,
+  "name": "cloyster",
+  "image": "images/cloyster.png",
+  "location": ""
+},
+{
+  "dexNumber": 242,
+  "name": "swinub",
+  "image": "images/swinub.png",
+  "location": ""
+},
+{
+  "dexNumber": 245,
+  "name": "sneasel",
+  "image": "images/sneasel.png",
+  "location": ""
+},
+{
+  "dexNumber": 246,
+  "name": "weavile",
+  "image": "images/weavile.png",
+  "location": ""
+},
+{
+  "dexNumber": 248,
+  "name": "smoochum",
+  "image": "images/smoochum.png",
+  "location": ""
+},
+{
+  "dexNumber": 249,
+  "name": "jynx",
+  "image": "images/jynx.png",
+  "location": ""
+},
+{
+  "dexNumber": 250,
+  "name": "seel",
+  "image": "images/seel.png",
+  "location": ""
+},
+{
+  "dexNumber": 251,
+  "name": "dewgong",
+  "image": "images/dewgong.png",
+  "location": ""
+},
+{
+  "dexNumber": 252,
+  "name": "cleffa",
+  "image": "images/cleffa.png",
+  "location": ""
+},
+{
+  "dexNumber": 253,
+  "name": "clefairy",
+  "image": "images/clefairy.png",
+  "location": ""
+},
+{
+  "dexNumber": 254,
+  "name": "clefable",
+  "image": "images/clefable.png",
+  "location": ""
+},
+{
+  "dexNumber": 255,
+  "name": "ditto",
+  "image": "images/ditto.png",
+  "location": ""
+},
+{
+  "dexNumber": 256,
+  "name": "beldum",
+  "image": "images/beldum.png",
+  "location": ""
+},
+{
+  "dexNumber": 257,
+  "name": "metang",
+  "image": "images/metang.png",
+  "location": ""
+},
+{
+  "dexNumber": 258,
+  "name": "metagross",
+  "image": "images/metagross.png",
+  "location": ""
+},
+{
+  "dexNumber": 259,
+  "name": "mantyke",
+  "image": "images/mantyke.png",
+  "location": ""
+},
+{
+  "dexNumber": 260,
+  "name": "mantine",
+  "image": "images/mantine.png",
+  "location": ""
+},
+{
+  "dexNumber": 261,
+  "name": "wailmer",
+  "image": "images/wailmer.png",
+  "location": ""
+},
+{
+  "dexNumber": 262,
+  "name": "wailord",
+  "image": "images/wailord.png",
+  "location": ""
+},
+
+     {
+      "dexNumber": 263,
+      "name": "remoraid",
+      "image": "images/remoraid.png",
+      "location": "" 
+      },
+    {
+      "dexNumber": 264,
+      "name": "octillery",
+      "image": "images/octillery.png",
+      "location": ""
+     },
+  
+     { 
+      "dexNumber": 265,
+      "name": "spheal",
+      "image": "images/spheal.png",
+      "location": ""
+     },
+     { 
+      "dexNumber": 266,
+      "name": "sealeo",
+      "image": "images/sealeo.png",
+      "location": ""
+     },
+     {
+      "dexNumber": 267,
+      "name": "walrein",
+      "image": "images/walrein.png",
+      "location": ""
+     },
+     {
+      "dexNumber": 268,
+      "name": "igglybuff",
+      "image": "images/igglybuff.png",
+      "location": ""
+     },
+     {
+      "dexNumber": 269,
+      "name": "jigglypuff",
+      "image": "images/jigglypuff.png",
+      "location": ""
+     },
+     {
+      "dexNumber": 270,
+      "name": "wigglytuff",
+      "image": "images/wigglytuff.png",
+      "location": ""
+     },
+     {
+      "dexNumber": 271,
+      "name": "swablu",
+      "image": "images/swablu.png",
+      "location": ""
+    },
+    {
+      "dexNumber": 272,
+      "name": "altaria",
+      "image": "images/altaria.png",
+      "location": ""
+    },
+    {
+      "dexNumber":273,
+      "name": "tropius",
+      "image": "images/tropius.png",
+      "location": ""
+    },
+    
+      {
+        "dexNumber": 274,
+        "name": "spearow",
+        "image": "images/spearow.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 275,
+        "name": "fearow",
+        "image": "images/fearow.png",
+        "location": ""
+      }
+    ,
+    
+      {
+        "dexNumber": 276,
+        "name": "cubone",
+        "image": "images/cubone.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 277,
+        "name": "marowak",
+        "image": "images/marowak.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 278,
+        "name": "larvitar",
+        "image": "images/larvitar.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 279,
+        "name": "pupitar",
+        "image": "images/pupitar.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 280,
+        "name": "tyranitar",
+        "image": "images/tyranitar.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 281,
+        "name": "vulpix",
+        "image": "images/vulpix.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 282,
+        "name": "ninetales",
+        "image": "images/ninetales.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 283,
+        "name": "hoothoot",
+        "image": "images/hoothoot.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 284,
+        "name": "noctowl",
+        "image": "images/noctowl.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 285,
+        "name": "murkrow",
+        "image": "images/murkrow.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 286,
+        "name": "honchkrow",
+        "image": "images/honchkrow.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 287,
+        "name": "misdreavus",
+        "image": "images/misdreavus.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 288,
+        "name": "mismagius",
+        "image": "images/mismagius.png",
+        "location": ""
+      },    
+      {
+        "dexNumber": 289,
+        "name": "stantler",
+        "image": "images/stantler.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 290,
+        "name": "chingling",
+        "image": "images/chingling.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 291,
+        "name": "chimecho",
+        "image": "images/chimecho.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 290,
+        "name": "chingling",
+        "image": "images/chingling.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 291,
+        "name": "chimecho",
+        "image": "images/chimecho.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 294,
+        "name": "slowpoke",
+        "image": "images/slowpoke.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 295,
+        "name": "slowbro",
+        "image": "images/slowbro.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 296,
+        "name": "slowking",
+        "image": "images/slowking.png",
+        "location": ""
+      },
+      {
+        "dexNumber": 297,
+        "name": "reshiram",
+        "image": "images/reshiram.png",
+        "location": ""
+      },
+      {
+        "dexNumber":298,
+        "name": "zekrom",
+        "image": "images/zekrom.png",
+        "location": ""
+      }
+            
+                  
+  ]
